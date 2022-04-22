@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Cátia Santos
+## 
  <div>
   <a href="https://github.com/CatiaSNT">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CatiaSNT&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
